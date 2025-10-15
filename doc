@@ -1,0 +1,36 @@
+Elementor → Custom CSS অপশনে গিয়ে smooth_button_css কোডটি paste করুন
+```
+
+#### Option 2: Plugin Launch করুন
+
+**Step 1: Plugin Test করুন**
+1. একটি test WordPress site তৈরি করুন
+2. `floatconnect.php` ফাইলটি upload করুন
+3. Activate করে test করুন
+
+**Step 2: WordPress.org-এ Submit করুন**
+1. https://wordpress.org/plugins/developers/add/
+2. Account তৈরি করুন
+3. Plugin ZIP upload করুন
+4. Review এর জন্য অপেক্ষা করুন (2-14 দিন)
+
+**Step 3: Marketing শুরু করুন**
+1. Demo site তৈরি করুন
+2. Social media-তে announce করুন
+3. Documentation তৈরি করুন
+4. Blog posts লিখুন
+
+### 💡 Pro Tips:
+
+1. **Testing অবশ্যই করবেন**: Fresh WordPress install-এ পুরো plugin test করুন
+2. **Screenshots নিন**: Plugin এর সুন্দর screenshots WordPress.org-এ upload করবেন
+3. **Support দিন**: যারা install করবে তাদের দ্রুত support দিন
+4. **Updates দিন**: Regular updates দিয়ে plugin active রাখুন
+
+### 📞 আপনার IT Company Info:
+```
+Plugin Name: FloatConnect
+Developer: SM TechSpire-IT
+Website: https://smtechspire-it.com (আপনার actual domain দিন)
+Email: info@smtechspire-it.com
+Support: https://smtechspire-it.com/support
